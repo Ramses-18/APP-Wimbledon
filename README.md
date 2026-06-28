@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎾 Wimbledon 2026 — App de Pronósticos
 **Singles Masculino · Full-Stack · Java + PostgreSQL + React**
 
@@ -195,3 +196,7 @@ Spring Boot sirve el SPA automáticamente.
 - Avatar de usuario personalizable  
 - Grupos privados con código de invitación
 - Integración con la API oficial de Wimbledon para resultados automáticos
+=======
+# APP-Wimbledon
+Aplicacion para pronosticar los resultado de wimbledon 2026
+>>>>>>> main
